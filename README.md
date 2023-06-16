@@ -1,1 +1,1 @@
-# Programowanie-Obiektowo-funkcyjne
+Zadania z przedmiotu Programowanie Obiektowo-funkcyjne (rok II, semestr 4)
